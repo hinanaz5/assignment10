@@ -1,0 +1,89 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0px;
+        }
+body{
+    background-color: aqua;
+}
+
+
+.para1{
+    font-family: 'Alkalami', serif;
+    
+}
+.para2{
+font-family: 'Cookie', cursive;
+
+}
+.para3{
+    font-family: 'Damion', cursive;
+        
+}
+.para4{
+    font-family: 'Fugaz One', cursive;
+    
+}
+.para5{
+    font-family: 'Lato', sans-serif;
+    
+}
+.para6{
+    font-family: 'Libre Baskerville', serif;
+    
+}
+.para7{
+    font-family: 'Noto Sans Mono', monospace;
+    
+}
+.para8{
+    font-family: 'Oswald', sans-serif;
+    
+}
+.para9{
+    font-family: 'Pacifico', cursive;
+    
+}
+.para10{
+    font-family: 'Passions Conflict', cursive;
+    
+}
+.nav{
+    background-color: white;
+    width: 95%;
+    border-radius: 10px;
+    margin: 5px auto;
+    display: flex;
+    box-shadow: 2px 2px 3px gray;
+    
+    
+}
+
+
+.second-div{
+    min-width: 100px;
+    display: inline-block;
+    text-align: center;
+    margin: 5px auto;
+    padding:15px;
+    font-size: 16px;
+    border-right: 0.5px solid gray;
+    /* border: 1px solid gray; */
+    justify-content: space-around;
+    
+}
+.last-item{
+    border-right: none;
+}
+h3{
+margin-top: 5px;
+size: 16px;
+}
+
+.fa-solid{
+    font-size: 30px;
+}
+.second-div:hover{
+    color: cyan;
+    cursor: pointer;
+}
